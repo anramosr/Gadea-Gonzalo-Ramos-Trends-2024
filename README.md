@@ -6,7 +6,7 @@ The folders EMPIRICAL and SIMULATIONS reproduces the Tables and Figures of the p
 
 REMEMBER CHANGING THE PATH ACCORDINGLY
 
-## EMPIRICAL 
+### EMPIRICAL 
 
 The code 'read_grid_file.m' reads the file 'CRUTEM.5.0.1.0.anomalies.nc' which can be downloaded from https://www.metoffice.gov.uk/hadobs/crutem5/data/CRUTEM.5.0.1.0/download.html and generates de data structure 'DATA_GRIDS.mat'.
 
@@ -22,7 +22,7 @@ The code 'main_structural_breaks_1880_2022.m' computes the Perron-Yabu (2009) te
 
 The code 'main_Table2.m' reproduces the Table 2 of the paper and produces Figures 3a and 3b.
 
-## SIMULATIONS
+### SIMULATIONS
 
 The code 'main_grids_compute_parameters.m' reads the data structure 'DATA_GRID.mat' and:
 
