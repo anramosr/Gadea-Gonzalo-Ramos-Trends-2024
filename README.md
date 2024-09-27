@@ -27,12 +27,19 @@ The code 'main_Table2.m' reproduces the Table 2 of the paper and produces Figure
 The code 'main_grids_compute_parameters.m' reads the data structure 'DATA_GRID.mat' and:
 
 0.- Test for unit root
+
 1.- Estimate a linear trend model
+
 2.- Estimate a cuadratic trend model
+
 3.- Estimate a cubic trend model
+
 4.- Detect the optimal position of a break in constant and trend and estimate the model
+
 5.- Estimate a linear trend model since 1960, with observations present in the complete sample, 1880-2022, since 1960
+
 6.- Only observations from 1960; we work with observations present in the period 1960-2022
+
 7.- With observations since 1960; we work with observations that are new in the period 1960-2022
 
 This is how the structure 'PARAM_GRIDS.mat' is generated.
