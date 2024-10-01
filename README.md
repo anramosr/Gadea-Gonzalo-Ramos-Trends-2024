@@ -2,7 +2,7 @@
 
 This README file clarifies the MATLAB codes to replicate the paper "Trends in Temperature Data: Micro-foundations of Their Nature", by Gadea, M.D., Gonzalo, J. and A. Ramos.
 
-The folders EMPIRICAL and SIMULATIONS reproduces the Tables and Figures of the paper. The folder FUNCTIONS contains several auxiliary funcions
+The folders EMPIRICAL and SIMULATIONS reproduce all Tables and Figures of the paper. The folder FUNCTIONS contains the auxiliary funcions.
 
 REMEMBER CHANGING THE PATH ACCORDINGLY
 
